@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Abstract}{1}
+\contentsline {section}{\numberline {2}Introduction}{1}
+\contentsline {section}{\numberline {3}Background}{2}
+\contentsline {section}{\numberline {4}Methodology}{5}
+\contentsline {section}{\numberline {5}Results}{12}
+\contentsline {section}{\numberline {6}Discussion}{15}
+\contentsline {section}{\numberline {7}Conclusion}{18}
+\contentsline {section}{\numberline {8}Future Work}{19}
+\contentsline {section}{\numberline {9}Appendix}{22}
+\contentsline {subsection}{\numberline {9.1}Appendix A: Flowchart}{22}
+\contentsline {subsection}{\numberline {9.2}Appendix B: Steady State Ratio Data}{24}
+\contentsline {subsection}{\numberline {9.3}Appendix C: Aerial Object Time Interval Data}{26}

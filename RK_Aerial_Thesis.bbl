@@ -1,0 +1,108 @@
+\begin{thebibliography}{10}
+
+\bibitem{[8]}
+Federal~Aviation Administration.
+\newblock Introduction to tcas ii.
+\newblock {\em Federal Aviation Administration Advisory Circular}, 2011.
+
+\bibitem{[6]}
+Federal~Aviation Administration.
+\newblock Interpretation of the special rule for model aircraft.
+\newblock {\em 14 CFR Part 91}, 2012.
+
+\bibitem{[2]}
+Federal~Aviation Administration.
+\newblock Public law 112-95, title iii, subtitle b – unmanned aircraft
+  systems.
+\newblock {\em FAA Modernization and Reform ACT of 2012 Public Law}, 2012.
+
+\bibitem{[3]}
+Federal~Aviation Administration.
+\newblock Chapter 1, subchapter a, part 1, definitions, civil aircraft, section
+  1.1.
+\newblock {\em Title 14 Code of Federal Regulations}, 2016.
+
+\bibitem{[4]}
+Federal~Aviation Administration.
+\newblock Chapter 1, subchapter c, part 21, certification procedures for
+  products and parts.
+\newblock {\em Title 14 Code of Federal Regulations}, 2016.
+
+\bibitem{[11]}
+Russ~Tedrake Andrew J.~Barry.
+\newblock Pushbroom stereo for high-speed navigation in cluttered environments.
+\newblock {\em 2015 IEEE International Conference on Robotics and Automation
+  (ICRA)}, 2015.
+
+\bibitem{[17]}
+Mark Stout Jason~Glaneueski Chris~Wargo, Gary~Church.
+\newblock Unmanned aircraft system (uas) research and future analysis.
+\newblock {\em IEEE 978-1-4799-1622-1/14}, 2014.
+
+\bibitem{[14]}
+L.~Forlenza A.~Moccia D.~Accardo, G.~Fasano and A.~Rispoli.
+\newblock Flight test of a radar-based tracking system for uas sense and avoid.
+\newblock {\em IEEE Transactions on Aerospace and Electronic Systems}, 49(2),
+  2013.
+
+\bibitem{[5]}
+Transportation Department and the Federal Aviation~Administration.
+\newblock Clarification of the applicability of aircraft registration
+  requirements for unmanned aircraft systems(uas) and request for information
+  regarding electronic registration for uas for uas.
+\newblock {\em Federal Aviation Administration Notices}, 2015.
+
+\bibitem{[16]}
+D.~Tirri A.E. Moccia A. De Lellis~E. Fasano~G., Accardo.
+\newblock Morphological filtering and target tracking for vision-based uas
+  sense and avoid.
+\newblock {\em Unmanned Aircraft Systems (ICUAS)}, 2014.
+
+\bibitem{[15]}
+J.~D.~Bošković J.~A.~Jackson and D.~Diel.
+\newblock Sensor fusion for sense and avoid for small uas without ads-b.
+\newblock {\em Unmanned Aircraft Systems (ICUAS)}, 2015.
+
+\bibitem{[12]}
+Johannes Schneider Dirk Holz Thomas Labe Sven~Behnke Matthias~Nieuwenhuisen,
+  David~Droeschel.
+\newblock Multimodal obstacle detection and collision avoidance for micro
+  aerial vehicles.
+\newblock {\em 2013 European Conference on Mobile Robots (ECMR)}, 2013.
+
+\bibitem{[13]}
+Matt Malchano Alex Perkins Alfred A. Rizzi Larry~Matthies Max~Bajracharya,
+  Jeremy~Ma.
+\newblock High fidelity day and night stereo mapping with vegetation and
+  negative obstacle detection for vision-in-the-loop walking.
+\newblock {\em 2013 IEEE RSJ International Conference on Intelligent Robots and
+  Systems (IROS)}, 2013.
+
+\bibitem{[9]}
+Air Traffic Organizations Planning~Office of~Aviation~Research and Development.
+\newblock Literature review on detect, sense, and avoid technology for unmanned
+  aircraft systems.
+\newblock {\em National Technical Information Service (NTIS)}, 2009.
+
+\bibitem{[1]}
+The White House~Office of~the Press~Secretary.
+\newblock Presidential memorandum: Promoting economic competitiveness while
+  safeguarding privacy, civil rights, and civil liberties in domestic use of
+  unmanned aircraft systems.
+\newblock {\em Unmanned Aircraft Systems (UAS) Regulations and Policies}, 2015.
+
+\bibitem{[7]}
+U.S.~Department of~Transportation.
+\newblock N jo 7210.891 – unmanned aircraft operations in the national
+  airspace system (nas).
+\newblock {\em Federal Aviation Administration, Regulations and Policies,
+  Orders and Notices}, 2015.
+
+\bibitem{[10]}
+Shankar~Prasad Shibarchi~Majumder, Rahul Shankar~Mani.
+\newblock Obstacle size and proximity detection using stereo images for agile
+  aerial robots.
+\newblock {\em 2015 2nd International Conference on Signal Processing and
+  Integrated Networks (SPIN)}, 2015.
+
+\end{thebibliography}
